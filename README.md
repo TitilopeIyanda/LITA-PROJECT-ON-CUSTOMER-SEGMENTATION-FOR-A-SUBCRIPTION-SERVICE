@@ -16,10 +16,14 @@
 
 #### (i) Conducted data exploration using pivot tables
 
-#### (ii) Calculate subscription patterns and average duration
+#### (ii) Calculated subscription patterns and average duration
 
-#### (iii) Generate reports
+#### (iii) Generated reports
 
 ### (2) SQL (Structured Query Language) Analysis:
 
 #### (i) Performed deeper data analysis using SQL queries to extract key insights on customer demographics, subscription types, and revenue trends.
+
+### (3) Power BI Dashboard: 
+
+#### (i) Created an interactive dashboard that visualizes customer segments, cancellation rates, subscription types and more.
