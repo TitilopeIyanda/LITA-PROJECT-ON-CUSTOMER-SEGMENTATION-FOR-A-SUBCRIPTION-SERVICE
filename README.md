@@ -7,8 +7,10 @@
 #### Project Overview
 #### Key Components
 #### Excel Analysis
-
-
+#### SQL Analysis
+#### Power BI Dashboard
+##### (i) Upload of Power BI file
+##### (ii) Exploration of interactive visuals
 
 ## KEY COMPONENTS
 
