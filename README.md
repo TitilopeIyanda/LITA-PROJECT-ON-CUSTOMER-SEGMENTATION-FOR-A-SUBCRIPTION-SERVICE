@@ -27,3 +27,7 @@
 ### (3) Power BI Dashboard: 
 
 #### (i) Created an interactive dashboard that visualizes customer segments, cancellation rates, subscription types and more.
+
+## EXCEL ANALYSIS
+
+### 
