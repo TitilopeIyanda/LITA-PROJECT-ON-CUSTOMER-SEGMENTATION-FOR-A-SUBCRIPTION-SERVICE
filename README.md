@@ -5,5 +5,17 @@
 ## PROJECT OUTLINE
 
 #### Project Overview
-#### Analytical tools
+#### Key Components
 #### Excel Analysis
+
+
+
+## KEY COMPONENTS
+
+### (1) Excel Analysis: 
+
+#### (i) Conducted data exploration using pivot tables
+
+#### (ii) Calculate subscription patterns and average duration
+
+#### (iii) Generate reports
