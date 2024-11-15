@@ -5,12 +5,22 @@
 ## PROJECT OUTLINE
 
 #### Project Overview
-#### Key Components
-#### Excel Analysis
-#### SQL Analysis
+#### (i) Key Components
+#### (ii) Excel Analysis:
+##### (iii) Upload of subscription data file in excel
+##### (iv) Uploads of Analysis with Pivot tables
+##### (v) Key findings
+
+#### SQL Analysis:
+##### (i) Upload of subscription Data
+##### (ii) Uploads of SQL queries run on the subscription data 
+##### (iii) Key Insights
+
 #### Power BI Dashboard
 ##### (i) Upload of Power BI file
 ##### (ii) Exploration of interactive visuals
+##### (iii) Use of slicers to filter subscription pattern
+##### (iv) Key Dashboard Features
 
 ## KEY COMPONENTS
 
